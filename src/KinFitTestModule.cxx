@@ -13,15 +13,15 @@
 #include <UHH2/common/include/LumiSelection.h>
 #include <UHH2/common/include/TriggerSelection.h>
 
-#include <UHH2/KinFitTest/include/KinFitTestSelections.h>
-#include <UHH2/KinFitTest/include/KinFitTestSetup.h>
-//#include <UHH2/KinFitTest/include/KinFitTestFit.h>
-#include <UHH2/KinFitTest/include/KinFitTestHists.h>
-#include <UHH2/KinFitTest/include/KinFitTestHistsMuonUnc.h>
-#include <UHH2/KinFitTest/include/KinFitTestHistsPulls.h>
-#include <UHH2/KinFitTest/include/KinFitTestHistsFitted.h>
-#include <UHH2/KinFitTest/include/KinFitTestRECOHists.h>
-#include <UHH2/KinFitTest/include/KinFitTestFITHists.h>
+#include <UHH2/ZprimeLowMass/include/KinFitTestSelections.h>
+#include <UHH2/ZprimeLowMass/include/KinFitTestSetup.h>
+//#include <UHH2/ZprimeLowMass/include/KinFitTestFit.h>
+#include <UHH2/ZprimeLowMass/include/KinFitTestHists.h>
+#include <UHH2/ZprimeLowMass/include/KinFitTestHistsMuonUnc.h>
+#include <UHH2/ZprimeLowMass/include/KinFitTestHistsPulls.h>
+#include <UHH2/ZprimeLowMass/include/KinFitTestHistsFitted.h>
+#include <UHH2/ZprimeLowMass/include/KinFitTestRECOHists.h>
+#include <UHH2/ZprimeLowMass/include/KinFitTestFITHists.h>
 #include <UHH2/common/include/MuonHists.h>
 #include <UHH2/common/include/EventHists.h>
 #include <UHH2/common/include/JetHists.h>
